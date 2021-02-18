@@ -1,3 +1,3 @@
-# Yapmis-Oldugum-Uygulamalar
+# Kotlin Zar Atma Uygulaması
 
-Kotlin, Html-5, CSS,  C #,  C Programlama Dilleri 
+Kotlin 0 İle Kullanıcıdan Girilen Sayı Arasında Rastgele Zar Atma Uygulaması
